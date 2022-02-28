@@ -1,3 +1,12 @@
-body{
-    /* background-color: ; */
+.container{
+    margin-bottom:100px;
+}
+.orange-bg{
+    background-color:#FEEAE9 ;
+    border-radius: 10px;
+    
+}
+a.btn{
+    background-color:#ff4a91 ;
+    color: white;
 }
